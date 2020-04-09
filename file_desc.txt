@@ -1,0 +1,19 @@
+connection-DB sathe nu connection
+
+Student:
+student_login - login form 
+check_stud - check id nd pass in login
+stud_signup - Student sign up form
+st_sign_insert - student sign up na data insert krava mate
+stud_forgot - forgot password nu form
+s_forgotc - forgot password no code(right now password display in url)
+logout - student logout
+stud_dashboard - student dashboard
+
+Company:
+company_login - login form
+check_com - check user id nd pass with db in login form
+com_signup - Company sign up form
+com_sign_insert - company sign up data insert in DB
+com_dashboard - dashboard of company
+com_logout - company logout
